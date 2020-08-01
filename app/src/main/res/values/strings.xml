@@ -1,0 +1,17 @@
+<resources>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="app_name">BluetoothChatApp</string>
+    <string name="str_label_btn_send">Send</string>
+    <string name="str_menu_search_devices">Search Devices</string>
+    <string name="str_menu_bluetooth_on">Switch on Bluetooth</string>
+
+    <string name="str_paired_devices">Paired Devices</string>
+    <string name="str_available_devices">Available Devices</string>
+    <string name="str_menu_scan_devices">Scan Devices</string>
+</resources>
